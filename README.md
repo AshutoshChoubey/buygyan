@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2022-02-06 | [Credit Card Related Query | क्रेडिट कार्ड से पैसे कमाना सीखिए |  Make Money from Credit Card](https://b.worldgyan.com/videos/UqYDKC6jGHg) | [Watch on YouTube](https://www.youtube.com/watch?v=UqYDKC6jGHg) |
+
 | 2022-02-06 | [Peak Margin Penalty may apply in Zerodha | Scenarios in which margin penalty is charged to clients](https://b.worldgyan.com/videos/bFAhhMRUGHk) | [Watch on YouTube](https://www.youtube.com/watch?v=bFAhhMRUGHk) |
 
 | 2022-02-07 | [Credit Card Related Query | Best way to use Credit Cards in Hindi | Earn Money using Credit Card](https://b.worldgyan.com/videos/Hb_PNibO1Zo) | [Watch on YouTube](https://www.youtube.com/watch?v=Hb_PNibO1Zo) |
