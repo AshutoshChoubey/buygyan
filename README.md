@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2025-09-06 | [1 | Metro Family Budget on ₹18 Lakh Salary | ₹20 Crore Wealth Strategy | How to Manage ₹1.3L Monthly](https://b.worldgyan.com/videos/q2zknOTZeOU) | [Watch on YouTube](https://www.youtube.com/watch?v=q2zknOTZeOU) |
+
 | 2025-09-10 | [2 | ₹23 LPA Salary Budget Plan in Metro City: How to Manage ₹1.3L Monthly & Build ₹25 Cr](https://b.worldgyan.com/videos/uBgJ6-N-0wI) | [Watch on YouTube](https://www.youtube.com/watch?v=uBgJ6-N-0wI) |
 
 | 2025-10-01 | [3 | Metro City Life on ₹12 Lakh Salary + Investment Strategy for ₹10 Crore | Family Budget in Metro](https://b.worldgyan.com/videos/NSZIKTaI068) | [Watch on YouTube](https://www.youtube.com/watch?v=NSZIKTaI068) |
