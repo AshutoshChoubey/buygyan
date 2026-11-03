@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2025-09-10 | [2 | ₹23 LPA Salary Budget Plan in Metro City: How to Manage ₹1.3L Monthly & Build ₹25 Cr](https://b.worldgyan.com/videos/uBgJ6-N-0wI) | [Watch on YouTube](https://www.youtube.com/watch?v=uBgJ6-N-0wI) |
+
 | 2025-10-01 | [3 | Metro City Life on ₹12 Lakh Salary + Investment Strategy for ₹10 Crore | Family Budget in Metro](https://b.worldgyan.com/videos/NSZIKTaI068) | [Watch on YouTube](https://www.youtube.com/watch?v=NSZIKTaI068) |
 
 | 2025-10-21 | [Best Credit Card Hacks | Smart Usage Tips | How to Use Credit Cards Smartly & Earn Rewards](https://b.worldgyan.com/videos/zO11_bseGGo) | [Watch on YouTube](https://www.youtube.com/watch?v=zO11_bseGGo) |
