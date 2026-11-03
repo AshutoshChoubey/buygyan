@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2022-02-05 | [CAPFLOAT | KARUR VYSYA  | Consumer Loan | How to check CIBIL Score or credit score for free in Hindi](https://b.worldgyan.com/videos/YpPqeU-23xs) | [Watch on YouTube](https://www.youtube.com/watch?v=YpPqeU-23xs) |
+
 | 2022-02-06 | [Cancel Amazon pay later | CAPFLOAT | KARUR VYSYA | Consumer Loan |  Why not Amazon pay latter](https://b.worldgyan.com/videos/MLTfVA0-FaI) | [Watch on YouTube](https://www.youtube.com/watch?v=MLTfVA0-FaI) |
 
 | 2022-02-06 | [Credit Card Related Query | क्रेडिट कार्ड से पैसे कमाना सीखिए |  Make Money from Credit Card](https://b.worldgyan.com/videos/UqYDKC6jGHg) | [Watch on YouTube](https://www.youtube.com/watch?v=UqYDKC6jGHg) |
