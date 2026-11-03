@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2021-06-25 | [IndiaMART InterMESH Chart Analysis |  Why Indiamart Intermesh Stock is Falling? | Indiamart Stock](https://b.worldgyan.com/videos/vSZQValGJSI) | [Watch on YouTube](https://www.youtube.com/watch?v=vSZQValGJSI) |
+
 | 2021-06-25 | [Affle India falling | Affle India chart analyis  | Dixon chart analysis | Prince Pipe chart Analysis](https://b.worldgyan.com/videos/BF2p8wBccBM) | [Watch on YouTube](https://www.youtube.com/watch?v=BF2p8wBccBM) |
 
 | 2021-07-01 | [Dixon Technologies | Deepak Nitrite| Alkyl Amines | Affle India falling |  Indiamart Stock Falling?](https://b.worldgyan.com/videos/J7_-7DX4in8) | [Watch on YouTube](https://www.youtube.com/watch?v=J7_-7DX4in8) |
