@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2021-10-22 | [Balaji Amines Ltd Stock Falling | Alkyl Amines Chemicals Stock Falling](https://b.worldgyan.com/videos/stU6-p0-8_s) | [Watch on YouTube](https://www.youtube.com/watch?v=stU6-p0-8_s) |
+
 | 2022-01-26 | [How to Check Passport Status in India 2022 | CHECK/TRACK PASSPORT APPLICATION STATUS ONLINE? 2022](https://b.worldgyan.com/videos/ZOoRWwwwJSU) | [Watch on YouTube](https://www.youtube.com/watch?v=ZOoRWwwwJSU) |
 
 | 2022-01-27 | [HDFC Credit card Billed Date | HDFC Credit card statement Date | How to View Credit Card Netbanking](https://b.worldgyan.com/videos/qy4rWSczmBA) | [Watch on YouTube](https://www.youtube.com/watch?v=qy4rWSczmBA) |
