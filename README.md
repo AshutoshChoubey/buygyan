@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2021-06-20 | [Stock Dividend Related Query? | How long hold stock to receive a dividend? | dividend record date?](https://b.worldgyan.com/videos/mvszQOtNaw8) | [Watch on YouTube](https://www.youtube.com/watch?v=mvszQOtNaw8) |
+
 | 2021-06-21 | [Affle Share lower circuit ? | Affle India share the latest news today | Affle India future forecast](https://b.worldgyan.com/videos/T7QEiA6nr7A) | [Watch on YouTube](https://www.youtube.com/watch?v=T7QEiA6nr7A) |
 
 | 2021-06-23 | [Deepak nitrite future prediction | Deepak nitrite future forecast | Deepak in 2026 |  Deepak in 2031](https://b.worldgyan.com/videos/QjHL5qAdIOw) | [Watch on YouTube](https://www.youtube.com/watch?v=QjHL5qAdIOw) |
