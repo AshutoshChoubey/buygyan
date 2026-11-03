@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2022-02-03 | [Full CIBIL Credit Report in HDFC | How to check CIBIL Score or credit score In HDFC Internet banking](https://b.worldgyan.com/videos/n-SNI7zL4Jo) | [Watch on YouTube](https://www.youtube.com/watch?v=n-SNI7zL4Jo) |
+
 | 2022-02-04 | [HDFC Credit card payment through internet banking | Credit card minimum amount payment benefit HDFC](https://b.worldgyan.com/videos/f8VtCJXYHFA) | [Watch on YouTube](https://www.youtube.com/watch?v=f8VtCJXYHFA) |
 
 | 2022-02-04 | [STT charges in BTST Zerodha | Buy Stock on 2  days of the same company but sell together  DP charge?](https://b.worldgyan.com/videos/rm8RrraEnd4) | [Watch on YouTube](https://www.youtube.com/watch?v=rm8RrraEnd4) |
