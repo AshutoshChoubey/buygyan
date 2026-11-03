@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2022-01-29 | [Buy and Sell stock in intraday in Zerodha | Intraday vs MIS, Auto square-off timings for intraday?](https://b.worldgyan.com/videos/XmcCJjnpy-I) | [Watch on YouTube](https://www.youtube.com/watch?v=XmcCJjnpy-I) |
+
 | 2022-01-29 | [Zerodha Tutorial | Kite Tutorial | What are the meanings of margin and leverage at Zerodha?](https://b.worldgyan.com/videos/AHxSw9xCS40) | [Watch on YouTube](https://www.youtube.com/watch?v=AHxSw9xCS40) |
 
 | 2022-01-31 | [Zerodha Tutorial | Kite | MIS leverages for the day | How much margins/leverage Zerodha provide?](https://b.worldgyan.com/videos/kjtt6MoJruc) | [Watch on YouTube](https://www.youtube.com/watch?v=kjtt6MoJruc) |
