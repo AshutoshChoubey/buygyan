@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2022-03-28 | [Buyback with Zerodha Kite Status | How to Participate in buyback in Zerodha correctly ?](https://b.worldgyan.com/videos/pmQAykzKSr8) | [Watch on YouTube](https://www.youtube.com/watch?v=pmQAykzKSr8) |
+
 | 2022-03-28 | [Buyback with Zerodha Kite Issue | Buyback with Zerodha Kite Status | share still showing in Demat](https://b.worldgyan.com/videos/fhRFnV0E1k4) | [Watch on YouTube](https://www.youtube.com/watch?v=fhRFnV0E1k4) |
 
 | 2022-04-04 | [Realised P&L | Charges & taxes| Other credits & debits | Net realised P&L | Unrealised P&L in Kite](https://b.worldgyan.com/videos/VmNRVVh9miI) | [Watch on YouTube](https://www.youtube.com/watch?v=VmNRVVh9miI) |
