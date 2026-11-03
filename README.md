@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2022-03-16 | [How to Participate in buyback in Zerodha | TCS Buyback 2022 | Share buyback in zerodha Kite](https://b.worldgyan.com/videos/hltLs59jklI) | [Watch on YouTube](https://www.youtube.com/watch?v=hltLs59jklI) |
+
 | 2022-03-28 | [Buyback with Zerodha Kite Status | How to Participate in buyback in Zerodha correctly ?](https://b.worldgyan.com/videos/pmQAykzKSr8) | [Watch on YouTube](https://www.youtube.com/watch?v=pmQAykzKSr8) |
 
 | 2022-03-28 | [Buyback with Zerodha Kite Issue | Buyback with Zerodha Kite Status | share still showing in Demat](https://b.worldgyan.com/videos/fhRFnV0E1k4) | [Watch on YouTube](https://www.youtube.com/watch?v=fhRFnV0E1k4) |
