@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2022-01-31 | [Zerodha Tutorial | Kite | MIS leverages for the day | How much margins/leverage Zerodha provide?](https://b.worldgyan.com/videos/kjtt6MoJruc) | [Watch on YouTube](https://www.youtube.com/watch?v=kjtt6MoJruc) |
+
 | 2022-02-01 | [Zerodha Tutorial | Kite Tutorial | Why has Zerodha stopped Bracket Orders (BO)? | Kite fund balance](https://b.worldgyan.com/videos/6Cca0PQnip0) | [Watch on YouTube](https://www.youtube.com/watch?v=6Cca0PQnip0) |
 
 | 2022-02-02 | [Charges for Buy Share in MIS then converted in CNC in Zerodha | Charges for Converting Position](https://b.worldgyan.com/videos/t_jNXCwQFxc) | [Watch on YouTube](https://www.youtube.com/watch?v=t_jNXCwQFxc) |
