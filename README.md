@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2021-06-24 | [Alkyl Amines future prediction | Alkyl Amines future forecast | Alkyl Amine in 2026 |  Alkyl in 2031](https://b.worldgyan.com/videos/mzlinbXjDdI) | [Watch on YouTube](https://www.youtube.com/watch?v=mzlinbXjDdI) |
+
 | 2021-06-25 | [IndiaMART InterMESH Chart Analysis |  Why Indiamart Intermesh Stock is Falling? | Indiamart Stock](https://b.worldgyan.com/videos/vSZQValGJSI) | [Watch on YouTube](https://www.youtube.com/watch?v=vSZQValGJSI) |
 
 | 2021-06-25 | [Affle India falling | Affle India chart analyis  | Dixon chart analysis | Prince Pipe chart Analysis](https://b.worldgyan.com/videos/BF2p8wBccBM) | [Watch on YouTube](https://www.youtube.com/watch?v=BF2p8wBccBM) |
