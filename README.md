@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2022-01-27 | [HDFC Credit card Billed Date | HDFC Credit card statement Date | How to View Credit Card Netbanking](https://b.worldgyan.com/videos/qy4rWSczmBA) | [Watch on YouTube](https://www.youtube.com/watch?v=qy4rWSczmBA) |
+
 | 2022-01-28 | [What does holding in Zerodha? | What is the difference between holdings and positions in Zerodha?](https://b.worldgyan.com/videos/XF90Pt9Bfgc) | [Watch on YouTube](https://www.youtube.com/watch?v=XF90Pt9Bfgc) |
 
 | 2022-01-29 | [Buy and Sell stock in intraday in Zerodha | Intraday vs MIS, Auto square-off timings for intraday?](https://b.worldgyan.com/videos/XmcCJjnpy-I) | [Watch on YouTube](https://www.youtube.com/watch?v=XmcCJjnpy-I) |
