@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2022-02-04 | [STT charges in BTST Zerodha | Buy Stock on 2  days of the same company but sell together  DP charge?](https://b.worldgyan.com/videos/rm8RrraEnd4) | [Watch on YouTube](https://www.youtube.com/watch?v=rm8RrraEnd4) |
+
 | 2022-02-05 | [CAPFLOAT | KARUR VYSYA  | Consumer Loan | How to check CIBIL Score or credit score for free in Hindi](https://b.worldgyan.com/videos/YpPqeU-23xs) | [Watch on YouTube](https://www.youtube.com/watch?v=YpPqeU-23xs) |
 
 | 2022-02-06 | [Cancel Amazon pay later | CAPFLOAT | KARUR VYSYA | Consumer Loan |  Why not Amazon pay latter](https://b.worldgyan.com/videos/MLTfVA0-FaI) | [Watch on YouTube](https://www.youtube.com/watch?v=MLTfVA0-FaI) |
