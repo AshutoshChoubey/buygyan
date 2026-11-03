@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2022-02-02 | [Charges for Buy Share in MIS then converted in CNC in Zerodha | Charges for Converting Position](https://b.worldgyan.com/videos/t_jNXCwQFxc) | [Watch on YouTube](https://www.youtube.com/watch?v=t_jNXCwQFxc) |
+
 | 2022-02-03 | [Full CIBIL Credit Report in HDFC | How to check CIBIL Score or credit score In HDFC Internet banking](https://b.worldgyan.com/videos/n-SNI7zL4Jo) | [Watch on YouTube](https://www.youtube.com/watch?v=n-SNI7zL4Jo) |
 
 | 2022-02-04 | [HDFC Credit card payment through internet banking | Credit card minimum amount payment benefit HDFC](https://b.worldgyan.com/videos/f8VtCJXYHFA) | [Watch on YouTube](https://www.youtube.com/watch?v=f8VtCJXYHFA) |
