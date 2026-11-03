@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2021-06-19 | [Dixon Technologies | SAIL | Steel Authority of India | Vodafone Idea Stock  | Reliance power Stock](https://b.worldgyan.com/videos/03Axk6X0__g) | [Watch on YouTube](https://www.youtube.com/watch?v=03Axk6X0__g) |
+
 | 2021-06-19 | [Affle Share lower circuit | Affle India share the latest news today | Affle India Technical Analysis](https://b.worldgyan.com/videos/4DmdmGxNZEg) | [Watch on YouTube](https://www.youtube.com/watch?v=4DmdmGxNZEg) |
 
 | 2021-06-20 | [Confidence Petroleum India Stock Fundamental & Technical | Confidence Petroleum Intrinsic value](https://b.worldgyan.com/videos/EsTv22Xvh_k) | [Watch on YouTube](https://www.youtube.com/watch?v=EsTv22Xvh_k) |
