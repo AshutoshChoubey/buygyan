@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2022-06-09 | [2 |  Save Income Tax In India | 80C Exemption | Investments that qualify for deductions  Section 80C](https://b.worldgyan.com/videos/u3wr7TF3d0k) | [Watch on YouTube](https://www.youtube.com/watch?v=u3wr7TF3d0k) |
+
 | 2023-08-22 | [Real Estate Insights: Renting vs. Buying Homes Explained 🏠💰](https://b.worldgyan.com/videos/RNAe7hn_Lbk) | [Watch on YouTube](https://www.youtube.com/watch?v=RNAe7hn_Lbk) |
 
 | 2025-09-06 | [1 | Metro Family Budget on ₹18 Lakh Salary | ₹20 Crore Wealth Strategy | How to Manage ₹1.3L Monthly](https://b.worldgyan.com/videos/q2zknOTZeOU) | [Watch on YouTube](https://www.youtube.com/watch?v=q2zknOTZeOU) |
