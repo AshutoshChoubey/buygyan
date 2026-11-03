@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2021-06-17 | [1 Lakh Portfolio Stock | करोड़ पति बनाने का Formula | High growth Stock portfolio | Best Midcap stock](https://b.worldgyan.com/videos/pWXqWkjvq7c) | [Watch on YouTube](https://www.youtube.com/watch?v=pWXqWkjvq7c) |
+
 | 2021-06-19 | [Dixon Technologies | SAIL | Steel Authority of India | Vodafone Idea Stock  | Reliance power Stock](https://b.worldgyan.com/videos/03Axk6X0__g) | [Watch on YouTube](https://www.youtube.com/watch?v=03Axk6X0__g) |
 
 | 2021-06-19 | [Affle Share lower circuit | Affle India share the latest news today | Affle India Technical Analysis](https://b.worldgyan.com/videos/4DmdmGxNZEg) | [Watch on YouTube](https://www.youtube.com/watch?v=4DmdmGxNZEg) |
