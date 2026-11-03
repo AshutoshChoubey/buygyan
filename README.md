@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2021-06-14 | [Technical Break Out Stock Chart Analysis | Tech Mahindra | Reliance Industries | Torrent Pharma](https://b.worldgyan.com/videos/06HOod34SN8) | [Watch on YouTube](https://www.youtube.com/watch?v=06HOod34SN8) |
+
 | 2021-06-16 | [All the IPO related Issue Query Answered in One Video | IPO related issues solutions for UPI](https://b.worldgyan.com/videos/a-U9pJz2gGs) | [Watch on YouTube](https://www.youtube.com/watch?v=a-U9pJz2gGs) |
 
 | 2021-06-16 | [Zerodha DP charges in BTST | Buy Today Sell Tomorrow DP charges | Zerodha अब DP charges लेने लगा ?](https://b.worldgyan.com/videos/Hu9TS_kI88Q) | [Watch on YouTube](https://www.youtube.com/watch?v=Hu9TS_kI88Q) |
