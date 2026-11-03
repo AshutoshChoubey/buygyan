@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2022-02-19 | [Amazon pay icici bank credit card | Amazon pay icici Advantage | Why Amazon pay icici bank credit](https://b.worldgyan.com/videos/1FAkgxgo9-4) | [Watch on YouTube](https://www.youtube.com/watch?v=1FAkgxgo9-4) |
+
 | 2022-02-19 | [HSBC visa platinum credit card | Disadvantages of HSBC visa platinum credit card](https://b.worldgyan.com/videos/gDVA7tXgIVs) | [Watch on YouTube](https://www.youtube.com/watch?v=gDVA7tXgIVs) |
 
 | 2022-02-19 | [Bajaj Finserv RBL Bank Supercard | World Prime SuperCard | Platinum Choice SuperCard](https://b.worldgyan.com/videos/_CgrbJzK9SM) | [Watch on YouTube](https://www.youtube.com/watch?v=_CgrbJzK9SM) |
