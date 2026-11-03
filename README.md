@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2022-02-19 | [ICICI Instant Platinum Credit Card | Disadvantage  and advantages of ICICI Instant Platinum Card](https://b.worldgyan.com/videos/yTeJ6Z1yVzY) | [Watch on YouTube](https://www.youtube.com/watch?v=yTeJ6Z1yVzY) |
+
 | 2022-02-19 | [HDFC Bank Millennia Credit Card | Disadvantage  and Advantages of HDFC Bank Millennia Credit Card](https://b.worldgyan.com/videos/doPBYfjt--w) | [Watch on YouTube](https://www.youtube.com/watch?v=doPBYfjt--w) |
 
 | 2022-02-19 | [SBI Simplyclick Credit Card | SBI Simplyclick Credit Card  Ka Kya Fayda Aur Kya Nuksaan ?](https://b.worldgyan.com/videos/8TP1yMy58a4) | [Watch on YouTube](https://www.youtube.com/watch?v=8TP1yMy58a4) |
