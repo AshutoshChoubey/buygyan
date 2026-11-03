@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2021-06-21 | [Affle Share lower circuit ? | Affle India share the latest news today | Affle India future forecast](https://b.worldgyan.com/videos/T7QEiA6nr7A) | [Watch on YouTube](https://www.youtube.com/watch?v=T7QEiA6nr7A) |
+
 | 2021-06-23 | [Deepak nitrite future prediction | Deepak nitrite future forecast | Deepak in 2026 |  Deepak in 2031](https://b.worldgyan.com/videos/QjHL5qAdIOw) | [Watch on YouTube](https://www.youtube.com/watch?v=QjHL5qAdIOw) |
 
 | 2021-06-24 | [Alkyl Amines future prediction | Alkyl Amines future forecast | Alkyl Amine in 2026 |  Alkyl in 2031](https://b.worldgyan.com/videos/mzlinbXjDdI) | [Watch on YouTube](https://www.youtube.com/watch?v=mzlinbXjDdI) |
