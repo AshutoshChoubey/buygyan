@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2023-08-22 | [Real Estate Insights: Renting vs. Buying Homes Explained 🏠💰](https://b.worldgyan.com/videos/RNAe7hn_Lbk) | [Watch on YouTube](https://www.youtube.com/watch?v=RNAe7hn_Lbk) |
+
 | 2025-09-06 | [1 | Metro Family Budget on ₹18 Lakh Salary | ₹20 Crore Wealth Strategy | How to Manage ₹1.3L Monthly](https://b.worldgyan.com/videos/q2zknOTZeOU) | [Watch on YouTube](https://www.youtube.com/watch?v=q2zknOTZeOU) |
 
 | 2025-09-10 | [2 | ₹23 LPA Salary Budget Plan in Metro City: How to Manage ₹1.3L Monthly & Build ₹25 Cr](https://b.worldgyan.com/videos/uBgJ6-N-0wI) | [Watch on YouTube](https://www.youtube.com/watch?v=uBgJ6-N-0wI) |
