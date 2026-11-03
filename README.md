@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2022-02-06 | [Peak Margin Penalty may apply in Zerodha | Scenarios in which margin penalty is charged to clients](https://b.worldgyan.com/videos/bFAhhMRUGHk) | [Watch on YouTube](https://www.youtube.com/watch?v=bFAhhMRUGHk) |
+
 | 2022-02-07 | [Credit Card Related Query | Best way to use Credit Cards in Hindi | Earn Money using Credit Card](https://b.worldgyan.com/videos/Hb_PNibO1Zo) | [Watch on YouTube](https://www.youtube.com/watch?v=Hb_PNibO1Zo) |
 
 | 2022-02-08 | [Credit Card basic Billing date, Unbilled Amount, payment due date,  Minimum due  kya Hota hai ?](https://b.worldgyan.com/videos/NSalzq806Gg) | [Watch on YouTube](https://www.youtube.com/watch?v=NSalzq806Gg) |
