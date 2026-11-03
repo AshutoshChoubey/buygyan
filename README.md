@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2021-07-01 | [Dixon Technologies | Deepak Nitrite| Alkyl Amines | Affle India falling |  Indiamart Stock Falling?](https://b.worldgyan.com/videos/J7_-7DX4in8) | [Watch on YouTube](https://www.youtube.com/watch?v=J7_-7DX4in8) |
+
 | 2021-07-03 | [Swing stock | Chart Analysis Of Best Breakout Stocks | Deepak Nitrite | SUDARSCHEM | ISEC | CCL](https://b.worldgyan.com/videos/nqNQ70UfXV8) | [Watch on YouTube](https://www.youtube.com/watch?v=nqNQ70UfXV8) |
 
 | 2021-10-16 | [Add or Withdraw Funds in  Zerodha | Withdraw fund issue | Funds  Withdraw FAILED in Zerodha](https://b.worldgyan.com/videos/6ow3wmHKvs4) | [Watch on YouTube](https://www.youtube.com/watch?v=6ow3wmHKvs4) |
