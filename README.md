@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2022-02-11 | [Credit Card to Bank Account Money Transfer Without Charges | cash from credit card without charges?](https://b.worldgyan.com/videos/AWej3qbNbJo) | [Watch on YouTube](https://www.youtube.com/watch?v=AWej3qbNbJo) |
+
 | 2022-02-12 | [Peak Margin Penalty - Zerodha Nudge  | Peak Margin Penalty in 1 min | PEAK MARGIN | #peakmargin](https://b.worldgyan.com/videos/lcD2wTqAe2w) | [Watch on YouTube](https://www.youtube.com/watch?v=lcD2wTqAe2w) |
 
 | 2022-02-19 | [Best credit Cards in 2022 in India | Top Credit Cards | Which credit card is best for daily use?](https://b.worldgyan.com/videos/ajXxwYBgZ0s) | [Watch on YouTube](https://www.youtube.com/watch?v=ajXxwYBgZ0s) |
