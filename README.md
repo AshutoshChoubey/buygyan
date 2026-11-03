@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2021-10-16 | [TCS Stock falling | TCS Stock falls 8% | Tata Consultancy Services Stock for 20 Oct 2021](https://b.worldgyan.com/videos/OFG6ho7jYss) | [Watch on YouTube](https://www.youtube.com/watch?v=OFG6ho7jYss) |
+
 | 2021-10-22 | [Deepak nitrite Stock | Why Deepak nitrite falling |](https://b.worldgyan.com/videos/S2nzLKiKOqM) | [Watch on YouTube](https://www.youtube.com/watch?v=S2nzLKiKOqM) |
 
 | 2021-10-22 | [Balaji Amines Ltd Stock Falling | Alkyl Amines Chemicals Stock Falling](https://b.worldgyan.com/videos/stU6-p0-8_s) | [Watch on YouTube](https://www.youtube.com/watch?v=stU6-p0-8_s) |
