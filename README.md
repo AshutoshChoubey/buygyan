@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2021-06-20 | [Best Swing stock for the week | Chart Analysis Of Best Breakout Stocks | Dixon | TCNS Clothing | EPL](https://b.worldgyan.com/videos/J8Ru5QcDD5M) | [Watch on YouTube](https://www.youtube.com/watch?v=J8Ru5QcDD5M) |
+
 | 2021-06-20 | [Stock Dividend Related Query? | How long hold stock to receive a dividend? | dividend record date?](https://b.worldgyan.com/videos/mvszQOtNaw8) | [Watch on YouTube](https://www.youtube.com/watch?v=mvszQOtNaw8) |
 
 | 2021-06-21 | [Affle Share lower circuit ? | Affle India share the latest news today | Affle India future forecast](https://b.worldgyan.com/videos/T7QEiA6nr7A) | [Watch on YouTube](https://www.youtube.com/watch?v=T7QEiA6nr7A) |
