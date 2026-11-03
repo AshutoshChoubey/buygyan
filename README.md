@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2022-01-28 | [What does holding in Zerodha? | What is the difference between holdings and positions in Zerodha?](https://b.worldgyan.com/videos/XF90Pt9Bfgc) | [Watch on YouTube](https://www.youtube.com/watch?v=XF90Pt9Bfgc) |
+
 | 2022-01-29 | [Buy and Sell stock in intraday in Zerodha | Intraday vs MIS, Auto square-off timings for intraday?](https://b.worldgyan.com/videos/XmcCJjnpy-I) | [Watch on YouTube](https://www.youtube.com/watch?v=XmcCJjnpy-I) |
 
 | 2022-01-29 | [Zerodha Tutorial | Kite Tutorial | What are the meanings of margin and leverage at Zerodha?](https://b.worldgyan.com/videos/AHxSw9xCS40) | [Watch on YouTube](https://www.youtube.com/watch?v=AHxSw9xCS40) |
