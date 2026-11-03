@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2022-03-28 | [Buyback with Zerodha Kite Issue | Buyback with Zerodha Kite Status | share still showing in Demat](https://b.worldgyan.com/videos/fhRFnV0E1k4) | [Watch on YouTube](https://www.youtube.com/watch?v=fhRFnV0E1k4) |
+
 | 2022-04-04 | [Realised P&L | Charges & taxes| Other credits & debits | Net realised P&L | Unrealised P&L in Kite](https://b.worldgyan.com/videos/VmNRVVh9miI) | [Watch on YouTube](https://www.youtube.com/watch?v=VmNRVVh9miI) |
 
 | 2022-05-26 | [1 | Save Income Tax for the professionals In India | HRA Exemption in Hindi](https://b.worldgyan.com/videos/HJeddxaUhZQ) | [Watch on YouTube](https://www.youtube.com/watch?v=HJeddxaUhZQ) |
