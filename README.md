@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2021-10-16 | [Add or Withdraw Funds in  Zerodha | Withdraw fund issue | Funds  Withdraw FAILED in Zerodha](https://b.worldgyan.com/videos/6ow3wmHKvs4) | [Watch on YouTube](https://www.youtube.com/watch?v=6ow3wmHKvs4) |
+
 | 2021-10-16 | [Opportunity to buy the good stock at discount| Right Time To buy Alkyle amine and Vaibhav Global](https://b.worldgyan.com/videos/AhoNHraVHdM) | [Watch on YouTube](https://www.youtube.com/watch?v=AhoNHraVHdM) |
 
 | 2021-10-16 | [TCS Stock falling | TCS Stock falls 8% | Tata Consultancy Services Stock for 20 Oct 2021](https://b.worldgyan.com/videos/OFG6ho7jYss) | [Watch on YouTube](https://www.youtube.com/watch?v=OFG6ho7jYss) |
