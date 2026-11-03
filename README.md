@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2022-02-19 | [Flipkart Axis Bank Credit Card | Disadvantage  and advantages of Flipkart Axis Bank credit Card](https://b.worldgyan.com/videos/7zTV8uui2ps) | [Watch on YouTube](https://www.youtube.com/watch?v=7zTV8uui2ps) |
+
 | 2022-02-19 | [Axis Bank Ace Credit Card | Axis Bank Ace Credit Card Sirf Charge hi Charge lagte hai](https://b.worldgyan.com/videos/057s9pJO1Rw) | [Watch on YouTube](https://www.youtube.com/watch?v=057s9pJO1Rw) |
 
 | 2022-02-19 | [Amazon pay icici bank credit card | Amazon pay icici Advantage | Why Amazon pay icici bank credit](https://b.worldgyan.com/videos/1FAkgxgo9-4) | [Watch on YouTube](https://www.youtube.com/watch?v=1FAkgxgo9-4) |
