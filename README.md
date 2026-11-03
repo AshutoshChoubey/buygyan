@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2022-04-04 | [Realised P&L | Charges & taxes| Other credits & debits | Net realised P&L | Unrealised P&L in Kite](https://b.worldgyan.com/videos/VmNRVVh9miI) | [Watch on YouTube](https://www.youtube.com/watch?v=VmNRVVh9miI) |
+
 | 2022-05-26 | [1 | Save Income Tax for the professionals In India | HRA Exemption in Hindi](https://b.worldgyan.com/videos/HJeddxaUhZQ) | [Watch on YouTube](https://www.youtube.com/watch?v=HJeddxaUhZQ) |
 
 | 2022-06-09 | [2 |  Save Income Tax In India | 80C Exemption | Investments that qualify for deductions  Section 80C](https://b.worldgyan.com/videos/u3wr7TF3d0k) | [Watch on YouTube](https://www.youtube.com/watch?v=u3wr7TF3d0k) |
