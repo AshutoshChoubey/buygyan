@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2022-02-26 | [High Growth Stock Portfolio Review for March 2022 | Best Multibagger Stocks during war 2022](https://b.worldgyan.com/videos/Rhx3MfLdFMk) | [Watch on YouTube](https://www.youtube.com/watch?v=Rhx3MfLdFMk) |
+
 | 2022-03-04 | [Can you leave a job without serving the notice period in India? | Is serving notice period mandatory](https://b.worldgyan.com/videos/VrGTJ44QNAE) | [Watch on YouTube](https://www.youtube.com/watch?v=VrGTJ44QNAE) |
 
 | 2022-03-07 | [Can you abscond from a reputed organization after getting better Offer from other company in India ?](https://b.worldgyan.com/videos/u_xFJWEGTQ4) | [Watch on YouTube](https://www.youtube.com/watch?v=u_xFJWEGTQ4) |
