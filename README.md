@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2022-03-07 | [What will happen if you abscond from a reputed organization in India  in Hindi? | How to Abscond ?](https://b.worldgyan.com/videos/N4qbIksxLDI) | [Watch on YouTube](https://www.youtube.com/watch?v=N4qbIksxLDI) |
+
 | 2022-03-08 | [Available Margin |  Used margin  | Available cash | Opening balance | Payin | Zerodha Tutorials](https://b.worldgyan.com/videos/U2taZFr1XvM) | [Watch on YouTube](https://www.youtube.com/watch?v=U2taZFr1XvM) |
 
 | 2022-03-08 | [How to Participate in buyback | TCS Buyback 2022 | TCS share buyback dates are out](https://b.worldgyan.com/videos/wIc0RPUQ2f0) | [Watch on YouTube](https://www.youtube.com/watch?v=wIc0RPUQ2f0) |
