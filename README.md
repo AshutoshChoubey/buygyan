@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2022-05-26 | [1 | Save Income Tax for the professionals In India | HRA Exemption in Hindi](https://b.worldgyan.com/videos/HJeddxaUhZQ) | [Watch on YouTube](https://www.youtube.com/watch?v=HJeddxaUhZQ) |
+
 | 2022-06-09 | [2 |  Save Income Tax In India | 80C Exemption | Investments that qualify for deductions  Section 80C](https://b.worldgyan.com/videos/u3wr7TF3d0k) | [Watch on YouTube](https://www.youtube.com/watch?v=u3wr7TF3d0k) |
 
 | 2023-08-22 | [Real Estate Insights: Renting vs. Buying Homes Explained 🏠💰](https://b.worldgyan.com/videos/RNAe7hn_Lbk) | [Watch on YouTube](https://www.youtube.com/watch?v=RNAe7hn_Lbk) |
