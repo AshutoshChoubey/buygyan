@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2022-03-07 | [Can you abscond from a reputed organization after getting better Offer from other company in India ?](https://b.worldgyan.com/videos/u_xFJWEGTQ4) | [Watch on YouTube](https://www.youtube.com/watch?v=u_xFJWEGTQ4) |
+
 | 2022-03-07 | [What will happen if you abscond from a reputed organization in India  in Hindi? | How to Abscond ?](https://b.worldgyan.com/videos/N4qbIksxLDI) | [Watch on YouTube](https://www.youtube.com/watch?v=N4qbIksxLDI) |
 
 | 2022-03-08 | [Available Margin |  Used margin  | Available cash | Opening balance | Payin | Zerodha Tutorials](https://b.worldgyan.com/videos/U2taZFr1XvM) | [Watch on YouTube](https://www.youtube.com/watch?v=U2taZFr1XvM) |
