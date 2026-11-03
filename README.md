@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2022-02-01 | [Zerodha Tutorial | Kite Tutorial | Why has Zerodha stopped Bracket Orders (BO)? | Kite fund balance](https://b.worldgyan.com/videos/6Cca0PQnip0) | [Watch on YouTube](https://www.youtube.com/watch?v=6Cca0PQnip0) |
+
 | 2022-02-02 | [Charges for Buy Share in MIS then converted in CNC in Zerodha | Charges for Converting Position](https://b.worldgyan.com/videos/t_jNXCwQFxc) | [Watch on YouTube](https://www.youtube.com/watch?v=t_jNXCwQFxc) |
 
 | 2022-02-03 | [Full CIBIL Credit Report in HDFC | How to check CIBIL Score or credit score In HDFC Internet banking](https://b.worldgyan.com/videos/n-SNI7zL4Jo) | [Watch on YouTube](https://www.youtube.com/watch?v=n-SNI7zL4Jo) |
