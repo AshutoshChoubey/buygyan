@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2021-05-24 | [JK Lakshmi Cement Ltd Stock Fundamental & Technical | JK Lakshmi Cement Ltd fair value](https://b.worldgyan.com/videos/ylFAnh-PQko) | [Watch on YouTube](https://www.youtube.com/watch?v=ylFAnh-PQko) |
+
 | 2021-05-25 | [Large Cap, Mid Cap & Small Cap Stocks Range | Advantage of Large cap, Mid cap and Small cap in hindi](https://b.worldgyan.com/videos/fkhv6ba7Tfc) | [Watch on YouTube](https://www.youtube.com/watch?v=fkhv6ba7Tfc) |
 
 | 2021-05-25 | [Deepak Nitrite multibagger  for 26 may 2021 | Prince Pipes multibagger stock for  26 may 2021](https://b.worldgyan.com/videos/V5VbgKIGS1U) | [Watch on YouTube](https://www.youtube.com/watch?v=V5VbgKIGS1U) |
