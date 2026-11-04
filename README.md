@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2021-06-05 | [Indian Energy Exchange Stock Fundamental & Technical | Indian Energy Exchange Intrinsic value | IEX](https://b.worldgyan.com/videos/8w6KvktzwMc) | [Watch on YouTube](https://www.youtube.com/watch?v=8w6KvktzwMc) |
+
 | 2021-06-06 | [10 High Dividend Paying Stock portfolio | Safe Stock for investment for regular dividend | blue chip](https://b.worldgyan.com/videos/DLSJyTHOnIA) | [Watch on YouTube](https://www.youtube.com/watch?v=DLSJyTHOnIA) |
 
 | 2021-06-11 | [Best Swing Trading Stocks 14 -18 June 2021 | Best stocks for Short Term Investment | Final dividend](https://b.worldgyan.com/videos/A5n1d3ZCi_U) | [Watch on YouTube](https://www.youtube.com/watch?v=A5n1d3ZCi_U) |
