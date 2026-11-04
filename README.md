@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2021-06-12 | [BTST DP Charges | Buy Today, Sell Tomorrow and DP charges | BTST and  DP charges in zerodha](https://b.worldgyan.com/videos/v3CAhjI2_X8) | [Watch on YouTube](https://www.youtube.com/watch?v=v3CAhjI2_X8) |
+
 | 2021-06-13 | [Best Breakout stock for next week | Best stocks for Swing | Motilal | Tata Steel | SAIL | MARKSANS](https://b.worldgyan.com/videos/W49w3BXpfSI) | [Watch on YouTube](https://www.youtube.com/watch?v=W49w3BXpfSI) |
 
 | 2021-06-13 | [Technical Analysis in Dixon Technologies | Alkyl Amines Chemicals | Deepak Nitrite | IRCTC | Astral](https://b.worldgyan.com/videos/seE3-b3BnMY) | [Watch on YouTube](https://www.youtube.com/watch?v=seE3-b3BnMY) |
