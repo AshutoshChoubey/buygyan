@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2021-06-13 | [Best Breakout stock for next week | Best stocks for Swing | Motilal | Tata Steel | SAIL | MARKSANS](https://b.worldgyan.com/videos/W49w3BXpfSI) | [Watch on YouTube](https://www.youtube.com/watch?v=W49w3BXpfSI) |
+
 | 2021-06-13 | [Technical Analysis in Dixon Technologies | Alkyl Amines Chemicals | Deepak Nitrite | IRCTC | Astral](https://b.worldgyan.com/videos/seE3-b3BnMY) | [Watch on YouTube](https://www.youtube.com/watch?v=seE3-b3BnMY) |
 
 | 2021-06-14 | [Swing Trading  Technical Reference | Dixon Technologies | Deepak Nitrite | SAIL  | Marksans Pharma](https://b.worldgyan.com/videos/lw_Lg_qGkds) | [Watch on YouTube](https://www.youtube.com/watch?v=lw_Lg_qGkds) |
