@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2021-06-12 | [Automatically stock sold and got money in ledger | Sometimes I buy shares but I don't get it ?](https://b.worldgyan.com/videos/B2U7ve3HyLE) | [Watch on YouTube](https://www.youtube.com/watch?v=B2U7ve3HyLE) |
+
 | 2021-06-12 | [What is market auction and Internal Auction ? | How does the auction process work in Auction](https://b.worldgyan.com/videos/wlLPKXuaS9s) | [Watch on YouTube](https://www.youtube.com/watch?v=wlLPKXuaS9s) |
 
 | 2021-06-12 | [BTST DP Charges | Buy Today, Sell Tomorrow and DP charges | BTST and  DP charges in zerodha](https://b.worldgyan.com/videos/v3CAhjI2_X8) | [Watch on YouTube](https://www.youtube.com/watch?v=v3CAhjI2_X8) |
