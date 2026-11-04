@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2021-05-25 | [Finolex Cables Stock Fundamental & Technical | Finolex Cables Stock fair value | Finolex Cables 20 %](https://b.worldgyan.com/videos/wZJj3RL7iHg) | [Watch on YouTube](https://www.youtube.com/watch?v=wZJj3RL7iHg) |
+
 | 2021-05-26 | [Good Till Triggered | Zerodha GTT in Details | GTT Buy | GTT Sell | GTT Stop loss | GTT target | OCO](https://b.worldgyan.com/videos/KpftgkX2vHI) | [Watch on YouTube](https://www.youtube.com/watch?v=KpftgkX2vHI) |
 
 | 2021-05-26 | [Bitcoin crash ? | Is it good time to invest in bitcoin ? | Best cryptocurrency for investment ?](https://b.worldgyan.com/videos/iCwKHsLt2y0) | [Watch on YouTube](https://www.youtube.com/watch?v=iCwKHsLt2y0) |
