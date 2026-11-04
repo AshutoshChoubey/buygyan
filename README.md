@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2021-06-13 | [Technical Analysis in Dixon Technologies | Alkyl Amines Chemicals | Deepak Nitrite | IRCTC | Astral](https://b.worldgyan.com/videos/seE3-b3BnMY) | [Watch on YouTube](https://www.youtube.com/watch?v=seE3-b3BnMY) |
+
 | 2021-06-14 | [Swing Trading  Technical Reference | Dixon Technologies | Deepak Nitrite | SAIL  | Marksans Pharma](https://b.worldgyan.com/videos/lw_Lg_qGkds) | [Watch on YouTube](https://www.youtube.com/watch?v=lw_Lg_qGkds) |
 
 | 2021-06-14 | [Technical Break Out Stock Chart Analysis | Tech Mahindra | Reliance Industries | Torrent Pharma](https://b.worldgyan.com/videos/06HOod34SN8) | [Watch on YouTube](https://www.youtube.com/watch?v=06HOod34SN8) |
