@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2021-06-02 | [Dixon Technologies Stock | Motherson Sumi Systems Stock | Nilkamal Ltd stock](https://b.worldgyan.com/videos/y129JZ3Cfrk) | [Watch on YouTube](https://www.youtube.com/watch?v=y129JZ3Cfrk) |
+
 | 2021-06-03 | [Indiamart Stock falling | Dixon Technologies Stock | Motherson Sumi Stock falling | Nilkamal stock](https://b.worldgyan.com/videos/cKtsahMlqa0) | [Watch on YouTube](https://www.youtube.com/watch?v=cKtsahMlqa0) |
 
 | 2021-06-04 | [Indiamart Stock falling | Dixon Technologies Stock | Motherson Sumi Stock falling | Nilkamal stock](https://b.worldgyan.com/videos/OYS9_9Sr61o) | [Watch on YouTube](https://www.youtube.com/watch?v=OYS9_9Sr61o) |
