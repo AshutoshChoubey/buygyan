@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2021-05-22 | [List of fundamental strong Stock At Attractive Valuation | Attractive Valuation stock portfolio](https://b.worldgyan.com/videos/sU5q52cI6OA) | [Watch on YouTube](https://www.youtube.com/watch?v=sU5q52cI6OA) |
+
 | 2021-05-24 | [JK Lakshmi Cement Ltd Stock Fundamental & Technical | JK Lakshmi Cement Ltd fair value](https://b.worldgyan.com/videos/ylFAnh-PQko) | [Watch on YouTube](https://www.youtube.com/watch?v=ylFAnh-PQko) |
 
 | 2021-05-25 | [Large Cap, Mid Cap & Small Cap Stocks Range | Advantage of Large cap, Mid cap and Small cap in hindi](https://b.worldgyan.com/videos/fkhv6ba7Tfc) | [Watch on YouTube](https://www.youtube.com/watch?v=fkhv6ba7Tfc) |
