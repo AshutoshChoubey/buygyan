@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2021-05-22 | [1 Lakh Portfolio for High return, Future Oriented, Strong Fundamental Stock | High growth stock List](https://b.worldgyan.com/videos/HvX31g7rNlg) | [Watch on YouTube](https://www.youtube.com/watch?v=HvX31g7rNlg) |
+
 | 2021-05-22 | [Prince Pipes multibagger stock 835% jump ? | Prince Pipes Stock Fundamental & Technical analysis](https://b.worldgyan.com/videos/24LmEndpDoY) | [Watch on YouTube](https://www.youtube.com/watch?v=24LmEndpDoY) |
 
 | 2021-05-22 | [List of fundamental strong Stock At Attractive Valuation | Attractive Valuation stock portfolio](https://b.worldgyan.com/videos/sU5q52cI6OA) | [Watch on YouTube](https://www.youtube.com/watch?v=sU5q52cI6OA) |
