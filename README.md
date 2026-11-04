@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2021-05-25 | [Deepak Nitrite multibagger  for 26 may 2021 | Prince Pipes multibagger stock for  26 may 2021](https://b.worldgyan.com/videos/V5VbgKIGS1U) | [Watch on YouTube](https://www.youtube.com/watch?v=V5VbgKIGS1U) |
+
 | 2021-05-25 | [Finolex Cables Stock Fundamental & Technical | Finolex Cables Stock fair value | Finolex Cables 20 %](https://b.worldgyan.com/videos/wZJj3RL7iHg) | [Watch on YouTube](https://www.youtube.com/watch?v=wZJj3RL7iHg) |
 
 | 2021-05-26 | [Good Till Triggered | Zerodha GTT in Details | GTT Buy | GTT Sell | GTT Stop loss | GTT target | OCO](https://b.worldgyan.com/videos/KpftgkX2vHI) | [Watch on YouTube](https://www.youtube.com/watch?v=KpftgkX2vHI) |
