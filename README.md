@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2021-05-26 | [Dixon Technologies (India) Stock | Affle India Stock  | JK Lakshmi Cement | Aarti Industries Stock](https://b.worldgyan.com/videos/nt8-cgXntpo) | [Watch on YouTube](https://www.youtube.com/watch?v=nt8-cgXntpo) |
+
 | 2021-05-27 | [Cancel triggered GTT order Zerodha | GTT not triggered | Is GTT free ? | LTP in Zerodha | OCO order](https://b.worldgyan.com/videos/wWunXNM4ABo) | [Watch on YouTube](https://www.youtube.com/watch?v=wWunXNM4ABo) |
 
 | 2021-05-28 | [GTT Buy order triggered but no fund then what will happen ? | GTT buy order after bonus and split ?](https://b.worldgyan.com/videos/7Y8WRxgr3is) | [Watch on YouTube](https://www.youtube.com/watch?v=7Y8WRxgr3is) |
