@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2021-05-20 | [Aurobindo Pharma Ltd Stock Fundamental & Technical | Aurobindo Pharma Ltd  stock fair value](https://b.worldgyan.com/videos/4zU8_r5hg2c) | [Watch on YouTube](https://www.youtube.com/watch?v=4zU8_r5hg2c) |
+
 | 2021-05-22 | [1 Lakh Portfolio for High return, Future Oriented, Strong Fundamental Stock | High growth stock List](https://b.worldgyan.com/videos/HvX31g7rNlg) | [Watch on YouTube](https://www.youtube.com/watch?v=HvX31g7rNlg) |
 
 | 2021-05-22 | [Prince Pipes multibagger stock 835% jump ? | Prince Pipes Stock Fundamental & Technical analysis](https://b.worldgyan.com/videos/24LmEndpDoY) | [Watch on YouTube](https://www.youtube.com/watch?v=24LmEndpDoY) |
