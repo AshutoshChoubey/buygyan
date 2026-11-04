@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2021-05-28 | [Complete MACD Indicator | Moving Average Convergence Divergence | MACD Explained in Hindi | #MACD](https://b.worldgyan.com/videos/wDIoWXLGMHw) | [Watch on YouTube](https://www.youtube.com/watch?v=wDIoWXLGMHw) |
+
 | 2021-05-29 | [GTT trigger Single vs OCO | CDSL TPIN on GTT Order | GTT Sell order triggered but don’t have Stock](https://b.worldgyan.com/videos/XiSQA80KfBw) | [Watch on YouTube](https://www.youtube.com/watch?v=XiSQA80KfBw) |
 
 | 2021-05-29 | [Stock Suggestion for 31 May 2021 | G E Shipping | CEAT | Dixon | Reliance Industry | Alkyl Amines](https://b.worldgyan.com/videos/E7feUmNLmC0) | [Watch on YouTube](https://www.youtube.com/watch?v=E7feUmNLmC0) |
