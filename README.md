@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2021-05-20 | [Tata Consultancy Services Ltd ​Stock vs Infosys Ltd stock vs HCL Technologies Ltd Stock comparison](https://b.worldgyan.com/videos/PNOEaYFsJMk) | [Watch on YouTube](https://www.youtube.com/watch?v=PNOEaYFsJMk) |
+
 | 2021-05-20 | [If you are tracking the stock regularly then you can get better profit than a long term investor](https://b.worldgyan.com/videos/nbGm85qPN2E) | [Watch on YouTube](https://www.youtube.com/watch?v=nbGm85qPN2E) |
 
 | 2021-05-20 | [Aurobindo Pharma Ltd Stock Fundamental & Technical | Aurobindo Pharma Ltd  stock fair value](https://b.worldgyan.com/videos/4zU8_r5hg2c) | [Watch on YouTube](https://www.youtube.com/watch?v=4zU8_r5hg2c) |
