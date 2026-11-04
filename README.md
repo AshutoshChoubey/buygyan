@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2021-05-30 | [Is Long Term investment is better ? | Should we need to use Technical indicator ? | Technical chart](https://b.worldgyan.com/videos/09FZmmAHWLs) | [Watch on YouTube](https://www.youtube.com/watch?v=09FZmmAHWLs) |
+
 | 2021-05-30 | [MACD Indicator analysis in 11 Min  | MACD crossover Strategy | MACD Histogram Divergence Strategy](https://b.worldgyan.com/videos/ISxOOsTi_lU) | [Watch on YouTube](https://www.youtube.com/watch?v=ISxOOsTi_lU) |
 
 | 2021-05-30 | [High Growth Strong Fundamental Stock Portfolio For June 2021 | Attractive Valuation stock portfolio](https://b.worldgyan.com/videos/V7oNkPNsb1k) | [Watch on YouTube](https://www.youtube.com/watch?v=V7oNkPNsb1k) |
