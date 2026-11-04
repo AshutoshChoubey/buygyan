@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2021-05-30 | [MACD Indicator analysis in 11 Min  | MACD crossover Strategy | MACD Histogram Divergence Strategy](https://b.worldgyan.com/videos/ISxOOsTi_lU) | [Watch on YouTube](https://www.youtube.com/watch?v=ISxOOsTi_lU) |
+
 | 2021-05-30 | [High Growth Strong Fundamental Stock Portfolio For June 2021 | Attractive Valuation stock portfolio](https://b.worldgyan.com/videos/V7oNkPNsb1k) | [Watch on YouTube](https://www.youtube.com/watch?v=V7oNkPNsb1k) |
 
 | 2021-05-31 | [Dixon technology Stock Technical Analysis for 01 June 2021 Dixon Fundamental, intrinsic value](https://b.worldgyan.com/videos/RMb5UpDTu0U) | [Watch on YouTube](https://www.youtube.com/watch?v=RMb5UpDTu0U) |
