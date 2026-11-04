@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2021-06-04 | [Indiamart Stock falling | Dixon Technologies Stock | Motherson Sumi Stock falling | Nilkamal stock](https://b.worldgyan.com/videos/OYS9_9Sr61o) | [Watch on YouTube](https://www.youtube.com/watch?v=OYS9_9Sr61o) |
+
 | 2021-06-05 | [Indian Energy Exchange Stock Fundamental & Technical | Indian Energy Exchange Intrinsic value | IEX](https://b.worldgyan.com/videos/8w6KvktzwMc) | [Watch on YouTube](https://www.youtube.com/watch?v=8w6KvktzwMc) |
 
 | 2021-06-06 | [10 High Dividend Paying Stock portfolio | Safe Stock for investment for regular dividend | blue chip](https://b.worldgyan.com/videos/DLSJyTHOnIA) | [Watch on YouTube](https://www.youtube.com/watch?v=DLSJyTHOnIA) |
