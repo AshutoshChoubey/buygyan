@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2021-06-02 | [Important Point on MACD indicator | MACD cross over | How to Use the MACD Indicator Effectively ?](https://b.worldgyan.com/videos/MoevyoOi_G0) | [Watch on YouTube](https://www.youtube.com/watch?v=MoevyoOi_G0) |
+
 | 2021-06-02 | [Dixon Technologies Stock | Motherson Sumi Systems Stock | Nilkamal Ltd stock](https://b.worldgyan.com/videos/y129JZ3Cfrk) | [Watch on YouTube](https://www.youtube.com/watch?v=y129JZ3Cfrk) |
 
 | 2021-06-03 | [Indiamart Stock falling | Dixon Technologies Stock | Motherson Sumi Stock falling | Nilkamal stock](https://b.worldgyan.com/videos/cKtsahMlqa0) | [Watch on YouTube](https://www.youtube.com/watch?v=cKtsahMlqa0) |
