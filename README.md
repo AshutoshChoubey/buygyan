@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2021-05-18 | [मात्र 14 साल में करोड़पति बनने की सीधी गणित  | 1 Crore in 14 years with 15000 SIP Investment](https://b.worldgyan.com/videos/zJbyQikXywM) | [Watch on YouTube](https://www.youtube.com/watch?v=zJbyQikXywM) |
+
 | 2021-05-18 | [Prince Pipes Stock Fundamental & Technical | Prince Pipes fair value | Prince Pipes stock 750% jump](https://b.worldgyan.com/videos/VgLrEUt6USc) | [Watch on YouTube](https://www.youtube.com/watch?v=VgLrEUt6USc) |
 
 | 2021-05-18 | [HDFC Bank stock vs ICICI Bank stock vs Kotak Mahindra Bank | Best Private bank stock comparison](https://b.worldgyan.com/videos/IVO7jTWauMo) | [Watch on YouTube](https://www.youtube.com/watch?v=IVO7jTWauMo) |
