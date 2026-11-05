@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2021-05-16 | [Don’t miss the opportunity to buy on deep good stock at discounted price](https://b.worldgyan.com/videos/48q2Vchc7tk) | [Watch on YouTube](https://www.youtube.com/watch?v=48q2Vchc7tk) |
+
 | 2021-05-16 | [Expert Option Quick Overview and my experience | What is Expert option and how to play with that ?](https://b.worldgyan.com/videos/916MOlqeZzc) | [Watch on YouTube](https://www.youtube.com/watch?v=916MOlqeZzc) |
 
 | 2021-05-17 | [Expert Option Web app Review | What is Expert option and how to Use | Expert Option my experience](https://b.worldgyan.com/videos/AOWKxj8knWY) | [Watch on YouTube](https://www.youtube.com/watch?v=AOWKxj8knWY) |
