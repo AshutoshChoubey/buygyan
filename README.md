@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2021-05-18 | [Prince Pipes Stock Fundamental & Technical | Prince Pipes fair value | Prince Pipes stock 750% jump](https://b.worldgyan.com/videos/VgLrEUt6USc) | [Watch on YouTube](https://www.youtube.com/watch?v=VgLrEUt6USc) |
+
 | 2021-05-18 | [HDFC Bank stock vs ICICI Bank stock vs Kotak Mahindra Bank | Best Private bank stock comparison](https://b.worldgyan.com/videos/IVO7jTWauMo) | [Watch on YouTube](https://www.youtube.com/watch?v=IVO7jTWauMo) |
 
 | 2021-05-19 | [Balaji Amines Ltd stock vs Alkyl Amines Chemicals Ltd stock comparison | Is Balaji Amines is good ?](https://b.worldgyan.com/videos/n-adwMAAbHg) | [Watch on YouTube](https://www.youtube.com/watch?v=n-adwMAAbHg) |
