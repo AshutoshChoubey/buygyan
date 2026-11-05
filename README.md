@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2021-05-17 | [The Best Expert Option Tips and Tricks | Trade Using technical indicator like rsi , MACD.](https://b.worldgyan.com/videos/2nhNsMcluLo) | [Watch on YouTube](https://www.youtube.com/watch?v=2nhNsMcluLo) |
+
 | 2021-05-17 | [HDFC EMI Overdue payment online | HDFC EMI Overdue charge | HDFC EMI bounce charge | HDFC Loan EMI](https://b.worldgyan.com/videos/gsBFr5V5SrQ) | [Watch on YouTube](https://www.youtube.com/watch?v=gsBFr5V5SrQ) |
 
 | 2021-05-17 | [Deepak Nitrite vs Alkyl Amines Chemicals vs Naveen Fluorine International comparison and my favorite](https://b.worldgyan.com/videos/YITx4nXwjq0) | [Watch on YouTube](https://www.youtube.com/watch?v=YITx4nXwjq0) |
