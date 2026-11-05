@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2021-05-19 | [Astral Ltd stock vs Supreme Industries Ltd stock vs Prince Pipes & Fittings Ltd stock comparison](https://b.worldgyan.com/videos/wNK8lBC6_GM) | [Watch on YouTube](https://www.youtube.com/watch?v=wNK8lBC6_GM) |
+
 | 2021-05-20 | [Tata Consultancy Services Ltd ​Stock vs Infosys Ltd stock vs HCL Technologies Ltd Stock comparison](https://b.worldgyan.com/videos/PNOEaYFsJMk) | [Watch on YouTube](https://www.youtube.com/watch?v=PNOEaYFsJMk) |
 
 | 2021-05-20 | [If you are tracking the stock regularly then you can get better profit than a long term investor](https://b.worldgyan.com/videos/nbGm85qPN2E) | [Watch on YouTube](https://www.youtube.com/watch?v=nbGm85qPN2E) |
