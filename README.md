@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2021-05-19 | [Balaji Amines Ltd stock vs Alkyl Amines Chemicals Ltd stock comparison | Is Balaji Amines is good ?](https://b.worldgyan.com/videos/n-adwMAAbHg) | [Watch on YouTube](https://www.youtube.com/watch?v=n-adwMAAbHg) |
+
 | 2021-05-19 | [Astral Ltd stock vs Supreme Industries Ltd stock vs Prince Pipes & Fittings Ltd stock comparison](https://b.worldgyan.com/videos/wNK8lBC6_GM) | [Watch on YouTube](https://www.youtube.com/watch?v=wNK8lBC6_GM) |
 
 | 2021-05-20 | [Tata Consultancy Services Ltd ​Stock vs Infosys Ltd stock vs HCL Technologies Ltd Stock comparison](https://b.worldgyan.com/videos/PNOEaYFsJMk) | [Watch on YouTube](https://www.youtube.com/watch?v=PNOEaYFsJMk) |
